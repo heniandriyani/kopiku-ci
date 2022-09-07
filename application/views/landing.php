@@ -355,8 +355,6 @@ data.data.attributes.page_menu.map((e)=>{
   })
 
 	$("#menu-data").html(dataMenu)
-
-
        })
       </script>
   </body>
