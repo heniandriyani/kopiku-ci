@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Kopiku</title>
     <link href="<?php base_url()?>resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   </head>
   <body>
@@ -33,7 +33,7 @@
     </nav>
 <!-- Hero -->
 <header class="container pt-5">
-      <h1 class="mb-5 fw-bolder text-uppercase text-center">Boost your day with <br> a cup of coffee</h1>
+      <h1 class="mb-5 fw-bolder text-uppercase text-center">Boost your day with me<br> and a cup of coffee</h1>
       <div class="d-flex justify-content-center">
         <img src="<?php echo base_url('resources/img/hero2.png');?>">
       </div>
